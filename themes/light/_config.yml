@@ -1,0 +1,38 @@
+menu:
+  首页: /
+  存档: /archives
+  关于: /about
+  TODO: /todolist
+
+widgets:
+- search
+- category
+- tagcloud
+
+excerpt_link: 阅读全文
+
+twitter:
+  username: dorayox
+  show_replies: false
+  tweet_count: 5
+
+addthis:
+  enable: true
+  pubid:
+  facebook: true
+  twitter: true
+  google: true
+  pinterest: true
+
+fancybox: true
+
+google_analytics:
+rss:
+
+comment_provider: facebook
+# Facebook comment
+facebook:
+ appid: yomingyo@gmail.com
+ comment_count: 5
+ comment_width: 840
+ comment_colorscheme: light
