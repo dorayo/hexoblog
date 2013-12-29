@@ -2,6 +2,7 @@ menu:
   首页: /
   存档: /archives
   关于: /about
+  RSS: /atom.xml
 
 
 widgets:
