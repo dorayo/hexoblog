@@ -1,5 +1,5 @@
-date: 2013-12-26 23:21:30.681
-argv: node /usr/local/bin/hexo g
+date: 2014-01-06 23:52:43.142
+argv: node /usr/local/bin/hexo s
 os: Darwin 13.0.2 darwin x64
 version:
   hexo: 2.3.0
@@ -13,16 +13,43 @@ version:
   openssl: 1.0.1e
 ---
 
-[debug] 23:21:30.417 Configuration file load successfully
-[debug] 23:21:30.419 Version info checked successfully
-[debug] 23:21:30.420 Loading the database...
-[debug] 23:21:30.649 Theme layout loaded
-[debug] 23:21:30.660 Processed: CNAME
-[debug] 23:21:30.669 Theme source loaded
-[error] 23:21:30.676 { rawMessage: 'Unable to parse.',
-  parsedLine: 15,
-  snippet: '  username: dorayox',
+[debug] 23:49:09.617 Configuration file load successfully
+[debug] 23:49:09.620 Plugin loaded successfully: hexo-generator-feed
+[debug] 23:49:09.634 Plugin loaded successfully: hexo-generator-sitemap
+[debug] 23:49:09.635 Version info checked successfully
+[debug] 23:49:09.635 Loading the database...
+[debug] 23:49:09.821 Theme layout loaded
+[debug] 23:49:09.822 Start watching theme layout...
+[debug] 23:49:09.828 Processed: CNAME
+[debug] 23:49:09.829 Processed: dorayox_x.jpg
+[debug] 23:49:09.829 Processed: favicon.ico
+[debug] 23:49:09.829 Processed: img/test.jpg
+[debug] 23:49:09.834 Theme source loaded
+[debug] 23:49:09.836 Theme configuration loaded
+[debug] 23:49:09.837 Start watching theme source...
+[debug] 23:49:09.846 Theme i18n loaded
+[debug] 23:49:09.856 Processed: _posts/photo-blog.md
+[debug] 23:49:09.860 Processed: _posts/跑步元思考.md
+[debug] 23:49:09.861 Processed: about/index.md
+[debug] 23:49:09.874 Cache saved
+[info] 23:49:09.882 Hexo is running at localhost:4000/. Press Ctrl+C to stop.
+[debug] 23:49:15.965 Render index: 
+[debug] 23:49:30.477 Render post: 2014/01/06/photo-blog/
+[debug] 23:49:47.346 Render post: 2014/01/06/photo-blog/
+[debug] 23:50:50.485 Render post: 2014/01/06/photo-blog/
+[update] 23:52:15.016 Source: _posts/photo-blog.md
+[debug] 23:52:15.121 Processed: _posts/photo-blog.md
+[debug] 23:52:15.132 Cache saved
+[update] 23:52:43.036 Source: _posts/photo-blog.md
+[error] 23:52:43.140 { rawMessage: 'Unable to parse.',
+  parsedLine: 3,
+  snippet: 'cat',
   parsedFile: null,
-  message: 'Theme configuration load failed',
-  name: 'HexoError',
-  stack: undefined }
+  message: 'Unable to parse.',
+  domain: 
+   { domain: null,
+     _events: { error: [Function] },
+     _maxListeners: 10,
+     members: [],
+     _disposed: true },
+  domainThrown: true }
