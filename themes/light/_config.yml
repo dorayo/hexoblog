@@ -28,7 +28,11 @@ addthis:
 fancybox: true
 
 google_analytics:
-rss: /atom.xml
+feed: 
+  type: atom
+  path: atom.xml
+  limit: 20
+
 
 comment_provider: facebook
 # Facebook comment
