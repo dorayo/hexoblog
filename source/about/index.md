@@ -15,7 +15,7 @@ categories:
 
 # Contact
 * QQ: 368208238
-* Email: yomingyo@gmail.com
+* Email: dorayo@dorayo.com
 * 微信公众账号：dorayox_x 「哆啦A梦」
 
 	![dorayox_x](../dorayox_x.jpg) 
