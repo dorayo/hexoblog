@@ -1,3 +1,4 @@
+
 title: Mac上搭建hexo极简指南
 date: 2014-06-05 20:22:31
 categories: tools
@@ -46,11 +47,17 @@ tags: hexo mac blog
 	
 8. 部署到github上
 
+	执行如下命令：
+	
+	```
+	$ npm install hexo-deployer-git --save
+	```
+
 	如下所示编辑_config.yml
 
 	```
 	deploy:
-	  type: github
+	  type: git
 	  repository: git@github.com:dorayox/dorayox.github.io.git
 	  branch: master
 	```
