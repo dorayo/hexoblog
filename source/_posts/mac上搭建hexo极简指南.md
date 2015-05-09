@@ -43,7 +43,7 @@ tags: hexo mac blog
 
 7. 创建github账号同名repository
 
-	eg:github账号名位dorayox，则创建`dorayox.github.io`
+	eg:github账号名位dorayox，则创建`dorayox.github.io` <!--more-->
 	
 8. 部署到github上
 
