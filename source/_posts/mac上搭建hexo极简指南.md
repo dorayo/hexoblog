@@ -38,12 +38,13 @@ tags: hexo mac blog
 	$ hexo g
 	$ hexo s
 	```
-	
+
+<!--more-->	
 6. 注册github账号
 
 7. 创建github账号同名repository
 
-	eg:github账号名位dorayox，则创建`dorayox.github.io` <!--more-->
+	eg:github账号名位dorayox，则创建`dorayox.github.io` 
 	
 8. 部署到github上
 
